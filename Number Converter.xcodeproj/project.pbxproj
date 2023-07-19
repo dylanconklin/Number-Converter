@@ -11,6 +11,7 @@
 		ABDAC4F82A67CA33003001F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABDAC4F72A67CA33003001F8 /* ContentView.swift */; };
 		ABDAC4FA2A67CA34003001F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABDAC4F92A67CA34003001F8 /* Assets.xcassets */; };
 		ABDAC4FD2A67CA34003001F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABDAC4FC2A67CA34003001F8 /* Preview Assets.xcassets */; };
+		ABDAC5042A67CA7D003001F8 /* Converter.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABDAC5032A67CA7D003001F8 /* Converter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ABDAC4F72A67CA33003001F8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ABDAC4F92A67CA34003001F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABDAC4FC2A67CA34003001F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ABDAC5032A67CA7D003001F8 /* Converter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Converter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ABDAC4F52A67CA33003001F8 /* Number_ConverterApp.swift */,
 				ABDAC4F72A67CA33003001F8 /* ContentView.swift */,
+				ABDAC5032A67CA7D003001F8 /* Converter.swift */,
 				ABDAC4F92A67CA34003001F8 /* Assets.xcassets */,
 				ABDAC4FB2A67CA34003001F8 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABDAC4F82A67CA33003001F8 /* ContentView.swift in Sources */,
+				ABDAC5042A67CA7D003001F8 /* Converter.swift in Sources */,
 				ABDAC4F62A67CA33003001F8 /* Number_ConverterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
