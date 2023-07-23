@@ -8,7 +8,7 @@
 import Foundation
 
 extension String {
-    subscript (index: Int ) -> String {
+    subscript (index: Int) -> String {
         get {
             String(self.dropLast(self.count - (index + 1)).dropFirst(index))
         }
