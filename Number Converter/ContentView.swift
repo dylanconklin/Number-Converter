@@ -27,7 +27,7 @@ struct ContentView: View {
                     text: $input
                 )
                 .textFieldStyle(.roundedBorder)
-                .keyboardType(.namePhonePad)
+                // .keyboardType(.namePhonePad)
                 
                 Stepper("From Base: \(fromBase)",
                         value: $fromBase,
